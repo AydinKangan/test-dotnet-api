@@ -1,0 +1,6 @@
+.env
+obj
+bin
+test-dotnet-api.sln
+.github
+.vscode
